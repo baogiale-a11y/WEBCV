@@ -1,3 +1,4 @@
+using System;
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using WEBCV.Models;
@@ -15,11 +16,15 @@ namespace WEBCV.Controllers
 
         public IActionResult Index()
         {
+            // Set current year for footer copyright
+            ViewBag.CurrentYear = DateTime.UtcNow.Year;
             return View();
         }
 
         public IActionResult Privacy()
         {
+            // Set current year for footer copyright
+            ViewBag.CurrentYear = DateTime.UtcNow.Year;
             return View();
         }
 

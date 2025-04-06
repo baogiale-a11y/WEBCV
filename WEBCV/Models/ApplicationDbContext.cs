@@ -1,34 +1,26 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using WEBCV.Models;
-using WEBCV.Models;
 
-public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
+namespace WEBCV.Models
 {
-    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
-        : base(options)
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
-    }
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+            : base(options)
+        {
+        }
 
-    public DbSet<Resume> Resumes { get; set; }
-    public DbSet<Job> Jobs { get; set; }
-    public DbSet<JobApplication> JobApplications { get; set; }
-    public DbSet<Rating> Ratings { get; set; }
+        public DbSet<CV> CVs { get; set; }
 
-    protected override void OnModelCreating(ModelBuilder builder)
-    {
-        base.OnModelCreating(builder);
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
 
-        builder.Entity<Rating>()
-            .HasOne(r => r.RatedUser)
-            .WithMany()
-            .HasForeignKey(r => r.RatedUserId)
-            .OnDelete(DeleteBehavior.Restrict); // Thay đổi từ CASCADE thành RESTRICT
-
-        builder.Entity<Rating>()
-            .HasOne(r => r.RatingUser)
-            .WithMany()
-            .HasForeignKey(r => r.RatingUserId)
-            .OnDelete(DeleteBehavior.Cascade); // Giữ nguyên CASCADE cho một trong hai mối quan hệ
+            // Configure CV entity
+            modelBuilder.Entity<CV>()
+                .HasOne(c => c.User)
+                .WithMany()
+                .HasForeignKey(c => c.UserId);
+        }
     }
 }

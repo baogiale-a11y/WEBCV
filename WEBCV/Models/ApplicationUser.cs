@@ -11,5 +11,7 @@ namespace WEBCV.Models
         public DateTime CreatedDate { get; set; } = DateTime.Now;
         public DateTime DateOfBirth { get; set; }
         public string UserType { get; set; } // "JobSeeker", "Employer", "Admin"
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
     }
 }
