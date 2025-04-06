@@ -1,0 +1,41 @@
+﻿@model IEnumerable<WEBCV.Models.Job>
+
+@{
+    ViewData["Title"] = "Manage Jobs";
+}
+
+<h2>Manage Jobs</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Company</th>
+            <th>Location</th>
+            <th>Posted Date</th>
+            <th>Deadline</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var job in Model)
+        {
+            <tr>
+                <td>@job.Title</td>
+                <td>@job.CompanyName</td>
+                <td>@job.Location</td>
+                <td>@job.PostedDate.ToShortDateString()</td>
+                <td>@job.DeadlineDate.ToShortDateString()</td>
+                <td>@(job.IsActive ? "Active" : "Inactive")</td>
+                <td>
+                    <form method="post" asp-controller="Admin" asp-action="ToggleJobStatus" asp-route-id="@job.Id" style="display:inline">
+                        <button type="submit" class="btn btn-warning">
+                            @(job.IsActive ? "Deactivate" : "Activate")
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

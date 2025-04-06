@@ -1,0 +1,35 @@
+﻿@model WEBCV.ViewModels.ResumeViewModel
+
+@{
+    ViewData["Title"] = "Create Resume";
+}
+
+<h2>Create Resume</h2>
+
+<div class="card">
+    <div class="card-body">
+        <form method="post" asp-controller="Resume" asp-action="Create">
+            <div class="form-group">
+                <label asp-for="Title"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Education"></label>
+                <textarea asp-for="Education" class="form-control"></textarea>
+                <span asp-validation-for="Education" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Experience"></label>
+                <textarea asp-for="Experience" class="form-control"></textarea>
+                <span asp-validation-for="Experience" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Skills"></label>
+                <textarea asp-for="Skills" class="form-control"></textarea>
+                <span asp-validation-for="Skills" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Create Resume</button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,50 @@
+﻿@model IEnumerable<WEBCV.Models.Job>
+
+@{
+    ViewData["Title"] = "Manage Jobs";
+}
+
+<h2>Manage Jobs</h2>
+
+<p>
+    <a asp-area="" asp-controller="JobManagement" asp-action="Create" class="btn btn-primary">Post New Job</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Company</th>
+            <th>Location</th>
+            <th>Posted Date</th>
+            <th>Deadline</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.CompanyName</td>
+                <td>@item.Location</td>
+                <td>@item.PostedDate.ToShortDateString()</td>
+                <td>@item.DeadlineDate.ToShortDateString()</td>
+                <td>@(item.IsActive ? "Active" : "Inactive")</td>
+                <td>
+                    <a asp-area="" asp-controller="JobManagement" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary">Edit</a>
+                    <a asp-area="" asp-controller="JobManagement" asp-action="Applications" asp-route-id="@item.Id" class="btn btn-info">View Applications</a>
+                    <form method="post" asp-area="" asp-controller="JobManagement" asp-action="ToggleStatus" asp-route-id="@item.Id" style="display:inline">
+                        <button type="submit" class="btn btn-warning">
+                            @(item.IsActive ? "Deactivate" : "Activate")
+                        </button>
+                    </form>
+                    <form method="post" asp-area="" asp-controller="JobManagement" asp-action="Delete" asp-route-id="@item.Id" style="display:inline">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

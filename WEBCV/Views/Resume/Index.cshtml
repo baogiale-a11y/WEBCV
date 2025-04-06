@@ -1,0 +1,36 @@
+﻿@model IEnumerable<WEBCV.Models.Resume>
+
+@{
+    ViewData["Title"] = "My Resumes";
+}
+
+<h2>My Resumes</h2>
+
+<p>
+    <a asp-area="" asp-controller="Resume" asp-action="Create" class="btn btn-primary">Create New Resume</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Created Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var resume in Model)
+        {
+            <tr>
+                <td>@resume.Title</td>
+                <td>@resume.CreatedDate.ToShortDateString()</td>
+                <td>
+                    <a asp-area="" asp-controller="Resume" asp-action="Edit" asp-route-id="@resume.Id" class="btn btn-secondary">Edit</a>
+                    <form method="post" asp-area="" asp-controller="Resume" asp-action="Delete" asp-route-id="@resume.Id" style="display:inline">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

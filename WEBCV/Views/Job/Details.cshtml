@@ -1,0 +1,45 @@
+﻿@model WEBCV.ViewModels.JobDetailsViewModel
+
+@{
+    ViewData["Title"] = "Job Details";
+}
+
+<h2>Job Details</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Job.Title</h5>
+        <p class="card-text"><strong>Company:</strong> @Model.Job.CompanyName</p>
+        <p class="card-text"><strong>Location:</strong> @Model.Job.Location</p>
+        <p class="card-text"><strong>Description:</strong> @Model.Job.Description</p>
+        <p class="card-text"><strong>Requirements:</strong> @Model.Job.Requirements</p>
+        <p class="card-text"><strong>Salary:</strong> @Model.Job.Salary</p>
+        <p class="card-text"><strong>Posted Date:</strong> @Model.Job.PostedDate.ToShortDateString()</p>
+        <p class="card-text"><strong>Deadline:</strong> @Model.Job.DeadlineDate.ToShortDateString()</p>
+        <p class="card-text"><strong>Status:</strong> @(Model.Job.IsActive ? "Active" : "Inactive")</p>
+
+        @if (User.Identity.IsAuthenticated && User.IsInRole("JobSeeker"))
+        {
+            if (Model.HasApplied)
+            {
+                <button class="btn btn-secondary" disabled>You have already applied</button>
+            }
+            else
+            {
+                <form method="post" asp-controller="JobApplication" asp-action="Apply">
+                    <input type="hidden" name="jobId" value="@Model.Job.Id" />
+                    <div class="form-group">
+                        <label for="resumeId">Select Resume:</label>
+                        <select id="resumeId" name="resumeId" class="form-control">
+                            @foreach (var resume in Model.UserResumes)
+                            {
+                                <option value="@resume.Id">@resume.Title</option>
+                            }
+                        </select>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Apply</button>
+                </form>
+            }
+        }
+    </div>
+</div>

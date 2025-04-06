@@ -1,0 +1,20 @@
+﻿@model WEBCV.ViewModels.AdminDashboardViewModel
+
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<h2>Admin Dashboard</h2>
+
+<div class="card">
+    <div class="card-header">
+        Dashboard Overview
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">Statistics</h5>
+        <p class="card-text"><strong>Total Users:</strong> @Model.TotalUsers</p>
+        <p class="card-text"><strong>Total Jobs:</strong> @Model.TotalJobs</p>
+        <p class="card-text"><strong>Total Resumes:</strong> @Model.TotalResumes</p>
+        <p class="card-text"><strong>Total Applications:</strong> @Model.TotalApplications</p>
+    </div>
+</div>

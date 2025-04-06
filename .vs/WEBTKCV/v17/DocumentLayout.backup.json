@@ -1,0 +1,958 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\web3\\WEBCV\\WEBTKCV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406192631_FixRatingsCascadePath1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WEBCV\\Migrations\\20250406192631_FixRatingsCascadePath1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\jobapplication\\myapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\jobapplication\\myapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\job\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\job\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\viewmodels\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\viewmodels\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\controllers\\jobmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\controllers\\jobmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\viewmodels\\jobdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\viewmodels\\jobdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\viewmodels\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\viewmodels\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\resume\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\resume\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\resume\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\resume\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\jobmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\jobmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\jobmanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\jobmanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\jobmanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\jobmanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\job\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\job\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\admin\\jobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\admin\\jobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\viewmodels\\resumeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\viewmodels\\resumeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\viewmodels\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\viewmodels\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\obj\\Debug\\net8.0\\WEBCV.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WEBCV\\obj\\Debug\\net8.0\\WEBCV.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\migrations\\20250406183704_fix4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\migrations\\20250406183704_fix4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\migrations\\20250406183757_fix5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\migrations\\20250406183757_fix5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\migrations\\20250406183047_fix3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\migrations\\20250406183047_fix3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\migrations\\20250406182444_fix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\migrations\\20250406182444_fix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\migrations\\20250406180104_fix1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\migrations\\20250406180104_fix1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\migrations\\20250406175845_fixratingscascadepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\migrations\\20250406175845_fixratingscascadepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|f:\\web3\\webcv\\webtkcv\\webcv\\migrations\\20250406175522_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE8419-A15B-4C89-B22D-0B319167D465}|WEBCV\\WEBCV.csproj|solutionrelative:webcv\\migrations\\20250406175522_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250406192631_FixRatingsCascadePath1.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406192631_FixRatingsCascadePath1.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Migrations\\20250406192631_FixRatingsCascadePath1.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406192631_FixRatingsCascadePath1.cs",
+              "RelativeToolTip": "WEBCV\\Migrations\\20250406192631_FixRatingsCascadePath1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:26:31.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobDetailsViewModel.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\JobDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "WEBCV\\ViewModels\\JobDetailsViewModel.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\JobDetailsViewModel.cs",
+              "RelativeToolTip": "WEBCV\\ViewModels\\JobDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:23:33.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobManagementController.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\JobManagementController.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Controllers\\JobManagementController.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\JobManagementController.cs",
+              "RelativeToolTip": "WEBCV\\Controllers\\JobManagementController.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAEwPYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:07:43.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "WEBCV\\ViewModels\\ProfileViewModel.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\ProfileViewModel.cs",
+              "RelativeToolTip": "WEBCV\\ViewModels\\ProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:58:14.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Controllers\\AdminController.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WEBCV\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:14:47.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:43:24.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminDashboardViewModel.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\AdminDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "WEBCV\\ViewModels\\AdminDashboardViewModel.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\AdminDashboardViewModel.cs",
+              "RelativeToolTip": "WEBCV\\ViewModels\\AdminDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:01:34.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Program.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Program.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Program.cs",
+              "RelativeToolTip": "WEBCV\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:40:02.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Job\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Job\\Edit.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Job\\Edit.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Job\\Edit.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwEYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T19:18:00.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T17:42:43.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WEBCV\\wwwroot\\css\\site.css",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WEBCV\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-06T18:50:51.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T17:47:22.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobViewModel.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\JobViewModel.cs",
+              "RelativeDocumentMoniker": "WEBCV\\ViewModels\\JobViewModel.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\JobViewModel.cs",
+              "RelativeToolTip": "WEBCV\\ViewModels\\JobViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:09:26.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WEBCV\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:47:49.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Resume\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Resume\\Index.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Resume\\Index.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Resume\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:49:34.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyApplications.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\JobApplication\\MyApplications.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\JobApplication\\MyApplications.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\JobApplication\\MyApplications.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\JobApplication\\MyApplications.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:50:37.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Job\\Create.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Job\\Create.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Job\\Create.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Job\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwEUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T19:17:41.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:42:31.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Resume\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Resume\\Edit.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Resume\\Edit.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Resume\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:50:08.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Resume\\Create.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Resume\\Create.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Resume\\Create.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Resume\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:49:52.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\JobManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\JobManagement\\Index.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\JobManagement\\Index.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\JobManagement\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:45:24.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\JobManagement\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\JobManagement\\Edit.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\JobManagement\\Edit.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\JobManagement\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:45:55.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\JobManagement\\Create.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\JobManagement\\Create.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\JobManagement\\Create.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\JobManagement\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:45:40.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T17:50:51.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Job\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Job\\Index.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Job\\Index.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Job\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:44:29.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Job\\Details.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Job\\Details.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Job\\Details.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Job\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:44:50.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T17:42:45.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Admin\\Users.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:43:39.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Jobs.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Admin\\Jobs.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Admin\\Jobs.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Admin\\Jobs.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Admin\\Jobs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:43:59.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Account\\Register.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T17:49:09.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Account\\Login.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T17:50:06.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ResumeViewModel.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\ResumeViewModel.cs",
+              "RelativeDocumentMoniker": "WEBCV\\ViewModels\\ResumeViewModel.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\ResumeViewModel.cs",
+              "RelativeToolTip": "WEBCV\\ViewModels\\ResumeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:06:58.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "WEBCV\\ViewModels\\AdminViewModel.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "WEBCV\\ViewModels\\AdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:15:35.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "WEBCV\\ViewModels\\AccountViewModels.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\ViewModels\\AccountViewModels.cs",
+              "RelativeToolTip": "WEBCV\\ViewModels\\AccountViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:46:43.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\appsettings.json",
+              "RelativeDocumentMoniker": "WEBCV\\appsettings.json",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\appsettings.json",
+              "RelativeToolTip": "WEBCV\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T17:29:23.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250406183704_Fix4.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406183704_Fix4.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Migrations\\20250406183704_Fix4.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406183704_Fix4.cs",
+              "RelativeToolTip": "WEBCV\\Migrations\\20250406183704_Fix4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:37:04.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250406183757_Fix5.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406183757_Fix5.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Migrations\\20250406183757_Fix5.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406183757_Fix5.cs",
+              "RelativeToolTip": "WEBCV\\Migrations\\20250406183757_Fix5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:37:57.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Models\\Rating.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\Rating.cs",
+              "RelativeToolTip": "WEBCV\\Models\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:37:27.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WEBCV\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:39:45.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250406183047_Fix3.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406183047_Fix3.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Migrations\\20250406183047_Fix3.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406183047_Fix3.cs",
+              "RelativeToolTip": "WEBCV\\Migrations\\20250406183047_Fix3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:30:47.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Job.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Models\\Job.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\Job.cs",
+              "RelativeToolTip": "WEBCV\\Models\\Job.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:36:29.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250406182444_Fix2.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406182444_Fix2.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Migrations\\20250406182444_Fix2.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406182444_Fix2.cs",
+              "RelativeToolTip": "WEBCV\\Migrations\\20250406182444_Fix2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:24:45.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Controllers\\JobController.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\JobController.cs",
+              "RelativeToolTip": "WEBCV\\Controllers\\JobController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAmwGUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:22:54.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Models\\ApplicationUser.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "WEBCV\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:36:07.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Models\\JobApplication.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\JobApplication.cs",
+              "RelativeToolTip": "WEBCV\\Models\\JobApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:37:07.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "JobApplicationController.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\JobApplicationController.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Controllers\\JobApplicationController.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\JobApplicationController.cs",
+              "RelativeToolTip": "WEBCV\\Controllers\\JobApplicationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:07:19.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ResumeController.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\ResumeController.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Controllers\\ResumeController.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\ResumeController.cs",
+              "RelativeToolTip": "WEBCV\\Controllers\\ResumeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:02:43.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20250406180104_Fix1.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406180104_Fix1.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Migrations\\20250406180104_Fix1.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406180104_Fix1.cs",
+              "RelativeToolTip": "WEBCV\\Migrations\\20250406180104_Fix1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:01:04.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20250406175845_FixRatingsCascadePath.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406175845_FixRatingsCascadePath.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Migrations\\20250406175845_FixRatingsCascadePath.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406175845_FixRatingsCascadePath.cs",
+              "RelativeToolTip": "WEBCV\\Migrations\\20250406175845_FixRatingsCascadePath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:58:45.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250406175522_InitialCreate.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406175522_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Migrations\\20250406175522_InitialCreate.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Migrations\\20250406175522_InitialCreate.cs",
+              "RelativeToolTip": "WEBCV\\Migrations\\20250406175522_InitialCreate.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:55:22.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\Resume.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Models\\Resume.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\Resume.cs",
+              "RelativeToolTip": "WEBCV\\Models\\Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:36:49.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WEBCV.AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\obj\\Debug\\net8.0\\WEBCV.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WEBCV\\obj\\Debug\\net8.0\\WEBCV.AssemblyInfo.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\obj\\Debug\\net8.0\\WEBCV.AssemblyInfo.cs",
+              "RelativeToolTip": "WEBCV\\obj\\Debug\\net8.0\\WEBCV.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:51:51.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T17:47:23.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T17:47:25.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T17:47:26.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WEBCV\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WEBCV\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T17:47:26.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Models\\ErrorViewModel.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WEBCV\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:42:26.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WEBCV\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\web3\\WEBCV\\WEBTKCV\\WEBCV\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WEBCV\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:42:49.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

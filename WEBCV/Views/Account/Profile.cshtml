@@ -1,0 +1,20 @@
+﻿@model WEBCV.ViewModels.ProfileViewModel
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<h2>Profile</h2>
+
+<div class="card">
+    <div class="card-header">
+        Profile Information
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">@Model.FullName</h5>
+        <p class="card-text"><strong>Email:</strong> @Model.Email</p>
+        <p class="card-text"><strong>Role:</strong> @Model.Role</p>
+        <p class="card-text"><strong>Member Since:</strong> @Model.CreatedDate.ToShortDateString()</p>
+        <a href="#" class="btn btn-primary">Edit Profile</a>
+    </div>
+</div>
